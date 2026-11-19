@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 621 483" role="img" aria-label="Axioma IA Tech">
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9ccd3"/>
+      <stop offset="1" stop-color="#a3a8b2"/>
+    </linearGradient>
+  </defs>
+  <path fill="#ffffff" d="M263 0H321L93 419L228 322L177 420L98 483H0Z"/>
+  <path fill="url(#silver)" d="M359 3L621 483H526L445 420L398 334H418L535 426L334 57Z"/>
+  <path fill="#ffffff" d="M310 200L275 264L310 328Z"/>
+  <path fill="#b3b7bf" d="M310 200L345 264L310 328Z"/>
+</svg>
