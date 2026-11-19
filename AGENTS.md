@@ -17,7 +17,8 @@ desplegado en Dokploy. Estilo visual inspirado en apple.com.
 
 ## Despliegue
 - Repo: https://github.com/axioma89/axioma-web (público, rama `main`).
-- Dokploy: proyecto "AXIOMA IA TECH S.A.S", entorno production `7PYkACR5FNTUx_3_K_1jv`, build `Dockerfile`.
+- Dokploy (dokploy.axiomaiatech.com): proyecto "AXIOMA IA TECH S.A.S", entorno production `7PYkACR5FNTUx_3_K_1jv`,
+  app "web" `XaSI_DKjLi0LBLEQHPaIC`, fuente git por URL, build `Dockerfile`.
 - Dominios: axiomaiatech.com y www.axiomaiatech.com → servidor 62.171.134.43 (Let's Encrypt).
 - El repo no tiene webhook: tras cada `git push`, lanzar deploy en Dokploy (MCP `application-deploy` o botón Deploy).
 
